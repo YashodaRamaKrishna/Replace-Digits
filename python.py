@@ -17,4 +17,4 @@ def replace_num(x, d1, d2):
     return result
 
 
-print(replace_num(-99, 9, 3))
+print(replace_num(99, 9, 3))
